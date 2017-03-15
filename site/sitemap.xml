@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>https://WindAFlame.github.io/mkdocs/</loc>
+     <lastmod>2017-03-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://WindAFlame.github.io/mkdocs/writing/</loc>
+     <lastmod>2017-03-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://WindAFlame.github.io/mkdocs/styling/</loc>
+     <lastmod>2017-03-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+</urlset>

@@ -1,0 +1,29 @@
+# Project information
+site_name: 'WindAFlame Docs'
+site_description: 'Docs for my repositories and more'
+site_author: 'Endy WindAFlame'
+site_url: 'https://WindAFlame.github.io/mkdocs'
+# Repository
+repo_name: 'WindAFlame/mkdocs'
+# Copyright
+copyright: 'Copyright &copy; 2017 Endy WindAFlame'
+# Documentation and theme
+theme: 'material'
+# Options
+extra:
+  #logo: 'images/logo.svg'
+  palette:
+    primary: 'green'
+    accent: 'deep purple'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  social:
+  - type: 'github'
+    link: 'https://github.com/WindAFlame'
+# Pages
+pages:
+    - Home: 'index.md'
+    - User Guide:
+      - 'Writing': 'writing.md'
+      - 'Styling': 'styling.md'
