@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "",
+            "title": "Home"
+        },
+        {
+            "location": "/writing/",
+            "text": "",
+            "title": "Writing"
+        },
+        {
+            "location": "/styling/",
+            "text": "",
+            "title": "Styling"
+        }
+    ]
+}
